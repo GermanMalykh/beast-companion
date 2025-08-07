@@ -5,11 +5,11 @@ import {UIButton} from "@/components";
 export const mapTypes = [
   {
     type: MapType.SMALL,
-    title: '2-3 Игрока'
+    title: '2-3 Players'
   },
   {
     type: MapType.LARGE,
-    title: '4 Игрока'
+    title: '4 Players'
   }
 ];
 
